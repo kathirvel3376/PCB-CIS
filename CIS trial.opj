@@ -1,0 +1,47 @@
+(ExpressProject "page2"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\page2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\Users\Kathir\Desktop\PCB\page2.dsn")
+      (Path "Design Resources" "C:\Users\Kathir\Desktop\PCB\page2.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "C:\Users\Kathir\Desktop\PCB\page2.dsn"
+         "Design Cache")
+      (Select "Design Resources" "C:\Users\Kathir\Desktop\PCB\page2.dsn"
+         "SCHEMATIC1" "PAGE2"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 212"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 944 52 303")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\KATHIR\DESKTOP\PCB\PAGE2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2"))))
